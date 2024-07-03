@@ -15,3 +15,4 @@ We can, as an example effort, even modify this README and change it as if it wer
 This demo also includes an image with changes on a branch for examination of image diff on GitHub.
 //change1
 //Change2
+//Change3 - for VEL project on July 03 2024
